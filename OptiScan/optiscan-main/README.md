@@ -1,4 +1,4 @@
-# Eye Disease Diagnosis System
+# Eye Disease Diagnosis App
 
 A FastAPI-based web application for diagnosing eye conditions from images, with integrated Snellen vision test and dry eye assessment.
 
